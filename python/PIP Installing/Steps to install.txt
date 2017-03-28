@@ -1,0 +1,2 @@
+open cmd propmt and enter this:
+pip install package_name

@@ -1,3 +1,0 @@
-Hello there
-I am Learning Python
-This file is used in project FileHandling to practice open().
